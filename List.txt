@@ -1,6 +1,6 @@
 7  d i g i t  c o d e s ,  n o  n u m b e r s  o r  s y m b o l s  a l l  l o w e r c a s e.
 
 (avdtkas: 0)  N / A 
-(vnudskj: 2)  N / A 
-(ikpfvdx: 3)  N / A 
-(swmzekl: 4)  N / A 
+(vnudskj: 0)  N / A 
+(ikpfvdx: 0)  N / A 
+(swmzekl: 0)  N / A 
